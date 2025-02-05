@@ -6,4 +6,4 @@ A convenient parser of telegram posts in a target channel with filtering with ch
 
 My contacts
 https://t.me/rrkorobov
-https://www.linkedin.com/in/rrkorobov
+https://www.linkedin.com/in/rkorobov
